@@ -16,13 +16,13 @@ Este proyecto es un aplicativo web, que por medio de formularios recibe la infor
 
 ## 👩‍💻// Expresiones regulares
 
-var nombreApellidoRegex = /^[a-zA-Z\s]+$/;
-var cédulaRegex = /^\d{9}$/;
-var especialidadRegex = /^[a-zA-Z\s]+$/;
-var consultorioRegex = /^\w+$/;
+var nombreApellidoRegex = /^[a-zA-Z\s]+$/
+var cédulaRegex = /^\d{9}$/
+var especialidadRegex = /^[a-zA-Z\s]+$/
+var consultorioRegex = /^\w+$/
 var correoRegex = /^\S+@\S+\.\S+$/
 
----
+
 
 
 
